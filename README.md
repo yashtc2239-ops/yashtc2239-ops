@@ -50,15 +50,6 @@
   <img src="https://streak-stats.demolab.com/?user=yashtc2239-ops&theme=radical&hide_border=true" width="80%" />
 </p>
 
-🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=yashtc2239-ops&theme=radical&no-frame=true&margin-w=8&column=4" />
-</p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashtc2239-ops&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
