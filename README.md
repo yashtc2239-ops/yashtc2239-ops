@@ -17,8 +17,7 @@
 
 📊 Zomato Restaurant Intelligence — Random Forest model (R² = 0.82) on 41,410 restaurants, with a custom Expansion Score algorithm, Power BI dashboard, and Streamlit app.
 📉 Cell2Cell Churn Intelligence — Cost-sensitive XGBoost with SHAP explainability, 1.66x targeting lift over baseline, deployed and live.
-🛰️ ISRO Hackathon — GAN-based cloud removal for satellite imagery (pix2pix/U-Net, PyTorch).
-📄 Co-authored an IEEE paper on AQI prediction using IoT sensors + SHAP + Random Forest.
+📈 Stock Market Trend Prediction — ML model for forecasting stock price trends.
 
 
 
@@ -44,8 +43,8 @@
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=yashtc2239-ops&theme=radical&hide_border=true&include_all_commits=false&count_private=false" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yashtc2239-ops&theme=radical&hide_border=true&layout=compact" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashtc2239-ops&theme=radical&hide_border=true&include_all_commits=false&count_private=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtc2239-ops&theme=radical&hide_border=true&layout=compact" width="30%" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yashtc2239-ops&theme=radical&hide_border=true" width="80%" />
@@ -54,7 +53,7 @@
 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashtc2239-ops&theme=radical&no-frame=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yashtc2239-ops&theme=radical&no-frame=true&margin-w=8&column=4" />
 </p>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
