@@ -4,7 +4,7 @@
   Third-year CSE (Data Science) @ VIT Pune &nbsp;|&nbsp; Hunting for Data Analyst / Data Scientist internships &nbsp;|&nbsp; GATE 2027 (DA) on the side
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/Yash Chavan">
+  <a href="https://www.linkedin.com/in/yash-chavan-558346358/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yashtc2239@gmail.com">
@@ -53,7 +53,7 @@
 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=yashtc2239-ops&theme=radical&no-frame=true&margin-w=8&column=4" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=yashtc2239-ops&theme=radical&no-frame=true&margin-w=8&column=4" />
 </p>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
